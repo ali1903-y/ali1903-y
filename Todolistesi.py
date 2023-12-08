@@ -1,1 +1,1 @@
-Print(selam millet)
+yapılacakis=input("Yapılacak işi giriniz lütfen: ")
