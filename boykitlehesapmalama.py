@@ -1,5 +1,5 @@
 yaş=int(input("Yaşınızı giriniz: "))
-boy=float(input("Kilonuzu giriniz: "))
+boy=float(input("Boyunuzu giriniz: "))
 kilo=float(input("Kilonuzu giriniz: "))
 bmi= kilo/(boy**2)
 print("Beden Vucüt Kitlesi" , round(bmi , 2))             
