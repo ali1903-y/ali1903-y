@@ -1,0 +1,5 @@
+print(2+7)
+print(5-3)
+print(8*4)
+print(15/3)
+print(15//3)
